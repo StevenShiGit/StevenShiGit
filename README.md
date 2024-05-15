@@ -6,20 +6,13 @@ I'm a student at the University of Waterloo studying Data Science currently in m
 - Python
 - Java
 - C/C++
-- Swing GUI
 - REST API's
-- HTTP Protocol
 - Flask
 - JavaScript and Typescript
-- React
-- NodeJS
-- ExpressJS
-- MongoDB
+- MERN Stack
 - HTML/CSS with Tailwind, Bootstrap
 - Pandas
 - NumPy
-- PHP
-- MySQL
 
 ### 🔭 I’m currently working on:
 - SQL message board

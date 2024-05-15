@@ -13,6 +13,7 @@ I'm a student at the University of Waterloo studying Data Science currently in m
 - HTML/CSS with Tailwind, Bootstrap
 - Pandas
 - NumPy
+- MySQL
 
 ### 🔭 I’m currently working on:
 - SQL message board
